@@ -1,4 +1,4 @@
-                                DO{ANNOUNCE}
+                                                       DO{ANNOUNCE}
 An easy to configure,Fully cuztomisable,open source auto announcer,Get rid of those picky tasks of trying to change prefixes,no prefixes,etc...
 ~~Features~~
 -Easy to configure
